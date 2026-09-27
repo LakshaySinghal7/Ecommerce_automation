@@ -1,4 +1,4 @@
-# Amazon Samsung Automation
+# Ecommerce Automation
 
 Selenium script that automates a phone purchase flow on amazon.in, up to the checkout page.
 
